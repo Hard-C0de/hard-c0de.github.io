@@ -1,4 +1,3 @@
-
 Privacy Policy
 
 built the Flying Fish app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
